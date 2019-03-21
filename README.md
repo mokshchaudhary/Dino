@@ -1,7 +1,7 @@
 # Dino Bot
 ![Dino](https://i.imgur.com/EeNspUB.jpg)
 
-This is a simple Python code to play the chrome dino game. What else can I say :?
+This is a simple Python code to play the chrome dino game. The code is adequately commented , hence beginner friendly . What else can I say :?
 
 # Prequisite:
  - ### Python:

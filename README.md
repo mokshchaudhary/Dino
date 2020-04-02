@@ -1,5 +1,7 @@
 # Dino Bot
-<img src="https://media.giphy.com/media/YT88q1xDSAS9xSLLeW/giphy.gif" />
+<p align="center">
+<img src="https://media.giphy.com/media/YT88q1xDSAS9xSLLeW/giphy.gif" width="100%"/>
+</p>
 
 This is a simple Python code to play the chrome Dino game. The code is adequately commented , hence beginner friendly . What else can I say ?
 
